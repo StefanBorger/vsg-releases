@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.1",
-    "zip":  "desktop/VsgDesktop-1.4.1.zip",
-    "notes":  "Update funktioniert jetzt auch, wenn noch ein Dialog oder ein zweites Fenster offen ist",
+    "version":  "1.5.0",
+    "zip":  "desktop/VsgDesktop-1.5.0.zip",
+    "notes":  "Erkennung findet kleine Loecher im schwarzen Spiegel (.22)",
     "date":  "2026-11-06"
 }

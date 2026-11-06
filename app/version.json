@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "2.10",
-    "apk":  "app/Scheibenauswertung-2.10.apk",
-    "notes":  "Aufsicht als Auswahlliste mit Suche aus den Benutzern von VSG Desktop",
+    "versionCode":  13,
+    "versionName":  "2.11",
+    "apk":  "app/Scheibenauswertung-2.11.apk",
+    "notes":  "Kleine Loecher im schwarzen Spiegel (.22) werden erkannt",
     "date":  "2026-11-06"
 }
