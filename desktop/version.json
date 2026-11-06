@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0",
-    "zip":  "desktop/VsgDesktop-1.5.0.zip",
-    "notes":  "Erkennung findet kleine Loecher im schwarzen Spiegel (.22)",
+    "version":  "1.6.0",
+    "zip":  "desktop/VsgDesktop-1.6.0.zip",
+    "notes":  "Beenden-Knopf oben rechts schliesst auch alle anderen VSG-Desktop-Fenster",
     "date":  "2026-11-06"
 }
