@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0",
-    "zip":  "desktop/VsgDesktop-1.4.0.zip",
-    "notes":  "Haupt-Benutzer vsg-admin darf als Einziger Freigaben zuruecknehmen; Aufsicht als Auswahlliste mit Suche",
+    "version":  "1.4.1",
+    "zip":  "desktop/VsgDesktop-1.4.1.zip",
+    "notes":  "Update funktioniert jetzt auch, wenn noch ein Dialog oder ein zweites Fenster offen ist",
     "date":  "2026-11-06"
 }
