@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "2.11",
-    "apk":  "app/Scheibenauswertung-2.11.apk",
-    "notes":  "Kleine Loecher im schwarzen Spiegel (.22) werden erkannt",
+    "versionCode":  14,
+    "versionName":  "2.12",
+    "apk":  "app/Scheibenauswertung-2.12.apk",
+    "notes":  "Verlauf uebernimmt Aenderungen, Freigaben und Loeschungen aus VSG Desktop; Ergebnis-Historie zeigt freigegeben und am PC geaendert",
     "date":  "2026-11-06"
 }
