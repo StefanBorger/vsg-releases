@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.0",
-    "zip":  "desktop/VsgDesktop-1.3.0.zip",
-    "notes":  "Benutzerverwaltung: Anmeldung mit eigenem Namen und Passwort, Admins und Benutzer, Freigaben sind endgueltig",
+    "version":  "1.4.0",
+    "zip":  "desktop/VsgDesktop-1.4.0.zip",
+    "notes":  "Haupt-Benutzer vsg-admin darf als Einziger Freigaben zuruecknehmen; Aufsicht als Auswahlliste mit Suche",
     "date":  "2026-11-06"
 }
