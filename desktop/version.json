@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0",
-    "zip":  "desktop/VsgDesktop-1.6.0.zip",
-    "notes":  "Beenden-Knopf oben rechts schliesst auch alle anderen VSG-Desktop-Fenster",
-    "date":  "2026-11-06"
+    "version":  "1.7.0",
+    "zip":  "desktop/VsgDesktop-1.7.0.zip",
+    "notes":  "Antipp-Hilfe: gesetzte Treffer rasten in der Lochmitte ein",
+    "date":  "2026-11-07"
 }

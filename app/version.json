@@ -1,7 +1,7 @@
 {
-    "versionCode":  14,
-    "versionName":  "2.12",
-    "apk":  "app/Scheibenauswertung-2.12.apk",
-    "notes":  "Verlauf uebernimmt Aenderungen, Freigaben und Loeschungen aus VSG Desktop; Ergebnis-Historie zeigt freigegeben und am PC geaendert",
-    "date":  "2026-11-06"
+    "versionCode":  15,
+    "versionName":  "2.13",
+    "apk":  "app/Scheibenauswertung-2.13.apk",
+    "notes":  "Einstellung Scheibe am Stand: Loecher antippen, Treffer rasten in der Lochmitte ein",
+    "date":  "2026-11-07"
 }
