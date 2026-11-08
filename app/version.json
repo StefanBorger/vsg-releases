@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "2.14",
-    "apk":  "app/Scheibenauswertung-2.14.apk",
-    "notes":  "Gelernte Erkennungsprofile aus VSG Desktop, wenn weniger als 17 Einschuesse erkannt werden",
+    "versionCode":  17,
+    "versionName":  "2.15",
+    "apk":  "app/Scheibenauswertung-2.15.apk",
+    "notes":  "Update ueber den normalen Android-Installationsdialog",
     "date":  "2026-11-08"
 }
