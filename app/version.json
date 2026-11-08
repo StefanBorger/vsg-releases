@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "2.15",
-    "apk":  "app/Scheibenauswertung-2.15.apk",
-    "notes":  "Update ueber den normalen Android-Installationsdialog",
+    "versionCode":  18,
+    "versionName":  "2.16",
+    "apk":  "app/Scheibenauswertung-2.16.apk",
+    "notes":  "Spiegel auf großer Scheibe (z. B. Krüger 3100): große Scheibe wird automatisch erkannt, Treffer außerhalb von Ring 6 zählen auf der großen Scheibe",
     "date":  "2026-11-08"
 }

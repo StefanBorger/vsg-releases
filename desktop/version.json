@@ -1,6 +1,6 @@
 {
-    "version":  "1.8.0",
-    "zip":  "desktop/VsgDesktop-1.8.0.zip",
-    "notes":  "Erkennung lernen aus korrigierten Scheiben (Bearbeiten-Menue); gelernte Profile bei zu wenigen Treffern",
+    "version":  "1.9.0",
+    "zip":  "desktop/VsgDesktop-1.9.0.zip",
+    "notes":  "Spiegel auf großer Scheibe (z. B. Krüger 3100): große Scheibe wird erkannt, gewertet und eingezeichnet (wie App 2.16)",
     "date":  "2026-11-08"
 }
