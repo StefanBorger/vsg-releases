@@ -1,6 +1,6 @@
 {
-    "version":  "1.7.1",
-    "zip":  "desktop/VsgDesktop-1.7.1.zip",
-    "notes":  "Rundennummer wird angezeigt; Suche nach Rundennummer (z. B. 14)",
+    "version":  "1.8.0",
+    "zip":  "desktop/VsgDesktop-1.8.0.zip",
+    "notes":  "Erkennung lernen aus korrigierten Scheiben (Bearbeiten-Menue); gelernte Profile bei zu wenigen Treffern",
     "date":  "2026-11-08"
 }

@@ -1,7 +1,7 @@
 {
-    "versionCode":  15,
-    "versionName":  "2.13",
-    "apk":  "app/Scheibenauswertung-2.13.apk",
-    "notes":  "Einstellung Scheibe am Stand: Loecher antippen, Treffer rasten in der Lochmitte ein",
-    "date":  "2026-11-07"
+    "versionCode":  16,
+    "versionName":  "2.14",
+    "apk":  "app/Scheibenauswertung-2.14.apk",
+    "notes":  "Gelernte Erkennungsprofile aus VSG Desktop, wenn weniger als 17 Einschuesse erkannt werden",
+    "date":  "2026-11-08"
 }
