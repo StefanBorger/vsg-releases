@@ -1,6 +1,6 @@
 {
-    "version":  "1.20.0",
-    "zip":  "desktop/VsgDesktop-1.20.0.zip",
-    "notes":  "WBK-Fotos zeigen Vorder- oder Rückseite (App 2.22)",
+    "version":  "1.21.0",
+    "zip":  "desktop/VsgDesktop-1.21.0.zip",
+    "notes":  "vsg-admin kann Schützen und Waffen ohne gespeicherte Ergebnisse löschen",
     "date":  "2026-11-09"
 }
