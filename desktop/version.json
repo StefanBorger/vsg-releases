@@ -1,6 +1,6 @@
 {
-    "version":  "1.16.0",
-    "zip":  "desktop/VsgDesktop-1.16.0.zip",
-    "notes":  "Hilfe: Handbuch VSG Desktop (F1) mit Versionshistorie und Dokumentation der Tablet-App",
+    "version":  "1.17.0",
+    "zip":  "desktop/VsgDesktop-1.17.0.zip",
+    "notes":  "Änderungsverlauf nach Freigabe: Zeit, Name, Rechner, IP, vorher/nachher und Pflicht-Bemerkung; lesen alle Admins, ändern nur vsg-admin",
     "date":  "2026-11-09"
 }
