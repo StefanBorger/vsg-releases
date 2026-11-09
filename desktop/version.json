@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.0",
-    "zip":  "desktop/VsgDesktop-1.17.0.zip",
-    "notes":  "Änderungsverlauf nach Freigabe: Zeit, Name, Rechner, IP, vorher/nachher und Pflicht-Bemerkung; lesen alle Admins, ändern nur vsg-admin",
+    "version":  "1.18.0",
+    "zip":  "desktop/VsgDesktop-1.18.0.zip",
+    "notes":  "Jede Freigabe wird mit Name, Zeit, Rechner und IP im Verlauf eingetragen",
     "date":  "2026-11-09"
 }
