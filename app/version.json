@@ -1,7 +1,7 @@
 {
-    "versionCode":  24,
-    "versionName":  "2.22",
-    "apk":  "app/Scheibenauswertung-2.22.apk",
-    "notes":  "WBK-Foto zentral hochladen: Schütze wählen, Vorder- oder Rückseite",
+    "versionCode":  25,
+    "versionName":  "2.23",
+    "apk":  "app/Scheibenauswertung-2.23.apk",
+    "notes":  "Seriennummern auf dem Tablet nur verkürzt; Namen nur aus der Datenbank",
     "date":  "2026-11-09"
 }

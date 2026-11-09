@@ -1,6 +1,6 @@
 {
-    "version":  "1.21.0",
-    "zip":  "desktop/VsgDesktop-1.21.0.zip",
-    "notes":  "vsg-admin kann Schützen und Waffen ohne gespeicherte Ergebnisse löschen",
+    "version":  "1.22.0",
+    "zip":  "desktop/VsgDesktop-1.22.0.zip",
+    "notes":  "WBK-Daten vollständig nur für vsg-admin, sonst nur eigene (mit Verlauf); Schützenfeld mit Suche",
     "date":  "2026-11-09"
 }
