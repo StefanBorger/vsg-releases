@@ -1,7 +1,7 @@
 {
-    "versionCode":  31,
-    "versionName":  "2.29",
-    "apk":  "app/Scheibenauswertung-2.29.apk",
-    "notes":  "Schützenzeile neu angeordnet: Name auch im Querformat sichtbar",
+    "versionCode":  32,
+    "versionName":  "2.30",
+    "apk":  "app/Scheibenauswertung-2.30.apk",
+    "notes":  "Eingaben der neuen Runde werden sofort gesichert und nach Neustart wiederhergestellt",
     "date":  "2026-11-09"
 }
