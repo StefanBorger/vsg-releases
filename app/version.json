@@ -1,7 +1,7 @@
 {
-    "versionCode":  28,
-    "versionName":  "2.26",
-    "apk":  "app/Scheibenauswertung-2.26.apk",
-    "notes":  "Namensauswahl in eigenem Fenster mit Suche – Tastatur verdeckt die Liste nicht mehr",
+    "versionCode":  29,
+    "versionName":  "2.27",
+    "apk":  "app/Scheibenauswertung-2.27.apk",
+    "notes":  "Waffenauswahl nur mit dem gewählten Kaliber; neue Kaliber .223 Rem, .308 Win, 7,5x55",
     "date":  "2026-11-09"
 }
