@@ -1,6 +1,6 @@
 {
-    "version":  "1.13.0",
-    "zip":  "desktop/VsgDesktop-1.13.0.zip",
-    "notes":  "Schützen und Waffen (WBK): Fotos vom Tablet ansehen, Text auslesen, Waffen eintragen; Waffe je Scheibe",
+    "version":  "1.14.0",
+    "zip":  "desktop/VsgDesktop-1.14.0.zip",
+    "notes":  "Schützen und Waffen: Schützen aus bisherigen Ergebnissen übernehmen",
     "date":  "2026-11-09"
 }
