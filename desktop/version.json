@@ -1,6 +1,6 @@
 {
-    "version":  "1.9.0",
-    "zip":  "desktop/VsgDesktop-1.9.0.zip",
-    "notes":  "Spiegel auf großer Scheibe (z. B. Krüger 3100): große Scheibe wird erkannt, gewertet und eingezeichnet (wie App 2.16)",
-    "date":  "2026-11-08"
+    "version":  "1.10.0",
+    "zip":  "desktop/VsgDesktop-1.10.0.zip",
+    "notes":  "Disziplinen: Bearbeiten -\u003e Disziplinen zeigt Kennziffer, Beschreibung und Kürzel (Startbestand 32 Disziplinen); Admins können ergänzen und ändern",
+    "date":  "2026-11-09"
 }
