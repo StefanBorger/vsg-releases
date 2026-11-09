@@ -1,6 +1,6 @@
 {
-    "version":  "1.24.0",
-    "zip":  "desktop/VsgDesktop-1.24.0.zip",
-    "notes":  "Namen aus der Benutzerverwaltung, WBK-Daten freiwillig je Benutzer",
+    "version":  "1.25.0",
+    "zip":  "desktop/VsgDesktop-1.25.0.zip",
+    "notes":  "Alle Namensfelder mit Suche und aufklappbarer Liste",
     "date":  "2026-11-09"
 }
