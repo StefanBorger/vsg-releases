@@ -1,6 +1,6 @@
 {
-    "version":  "1.23.0",
-    "zip":  "desktop/VsgDesktop-1.23.0.zip",
-    "notes":  "Meine Einstellungen (Waffen in der App), Waffe selbst nachtragen, Sicht für normale Benutzer eingeschränkt",
+    "version":  "1.24.0",
+    "zip":  "desktop/VsgDesktop-1.24.0.zip",
+    "notes":  "Namen aus der Benutzerverwaltung, WBK-Daten freiwillig je Benutzer",
     "date":  "2026-11-09"
 }

@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "2.24",
-    "apk":  "app/Scheibenauswertung-2.24.apk",
-    "notes":  "Waffen nur von Schützen, die das in VSG Desktop erlauben",
+    "versionCode":  27,
+    "versionName":  "2.25",
+    "apk":  "app/Scheibenauswertung-2.25.apk",
+    "notes":  "Schützennamen aus der Benutzerverwaltung",
     "date":  "2026-11-09"
 }
