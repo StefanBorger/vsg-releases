@@ -1,7 +1,7 @@
 {
-    "versionCode":  29,
-    "versionName":  "2.27",
-    "apk":  "app/Scheibenauswertung-2.27.apk",
-    "notes":  "Waffenauswahl nur mit dem gewählten Kaliber; neue Kaliber .223 Rem, .308 Win, 7,5x55",
+    "versionCode":  30,
+    "versionName":  "2.28",
+    "apk":  "app/Scheibenauswertung-2.28.apk",
+    "notes":  "WBK-Kaliber bleiben unverändert, Zuordnung über kaliber_zuordnung",
     "date":  "2026-11-09"
 }

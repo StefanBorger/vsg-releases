@@ -1,6 +1,6 @@
 {
-    "version":  "1.26.0",
-    "zip":  "desktop/VsgDesktop-1.26.0.zip",
-    "notes":  "Neue Kaliber .223 Rem, .308 Win, 7,5x55",
+    "version":  "1.27.0",
+    "zip":  "desktop/VsgDesktop-1.27.0.zip",
+    "notes":  "WBK-Kaliber bleiben wie eingetragen; unbekannte Schreibweisen werden beim Speichern geprüft und zugeordnet",
     "date":  "2026-11-09"
 }
