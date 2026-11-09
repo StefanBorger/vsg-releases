@@ -1,7 +1,7 @@
 {
-    "versionCode":  22,
-    "versionName":  "2.20",
-    "apk":  "app/Scheibenauswertung-2.20.apk",
-    "notes":  "Schützen nur noch aus der Liste der angelegten Schützen (Suchfeld mit Auswahlliste)",
+    "versionCode":  23,
+    "versionName":  "2.21",
+    "apk":  "app/Scheibenauswertung-2.21.apk",
+    "notes":  "Probe je Schütze und Schießen: wird eingetragen, aber nicht gewertet",
     "date":  "2026-11-09"
 }
