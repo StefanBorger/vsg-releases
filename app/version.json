@@ -1,7 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "2.18",
-    "apk":  "app/Scheibenauswertung-2.18.apk",
-    "notes":  "Disziplin wählen stellt das passende Kaliber ein; mehr Kaliber, oft verwendete oben",
+    "versionCode":  21,
+    "versionName":  "2.19",
+    "apk":  "app/Scheibenauswertung-2.19.apk",
+    "notes":  "Freiwillig je Schütze: WBK-Foto hochladen (📷 WBK) und beim Schießen die Waffe wählen",
     "date":  "2026-11-09"
 }
