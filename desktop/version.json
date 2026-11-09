@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.0",
-    "zip":  "desktop/VsgDesktop-1.10.0.zip",
-    "notes":  "Disziplinen: Bearbeiten -\u003e Disziplinen zeigt Kennziffer, Beschreibung und Kürzel (Startbestand 32 Disziplinen); Admins können ergänzen und ändern",
+    "version":  "1.11.0",
+    "zip":  "desktop/VsgDesktop-1.11.0.zip",
+    "notes":  "Disziplin je Scheibe anzeigen, ändern und im CSV-Export (wie App 2.17)",
     "date":  "2026-11-09"
 }

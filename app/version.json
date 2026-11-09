@@ -1,7 +1,7 @@
 {
-    "versionCode":  18,
-    "versionName":  "2.16",
-    "apk":  "app/Scheibenauswertung-2.16.apk",
-    "notes":  "Spiegel auf großer Scheibe (z. B. Krüger 3100): große Scheibe wird automatisch erkannt, Treffer außerhalb von Ring 6 zählen auf der großen Scheibe",
-    "date":  "2026-11-08"
+    "versionCode":  19,
+    "versionName":  "2.17",
+    "apk":  "app/Scheibenauswertung-2.17.apk",
+    "notes":  "Disziplin je Schütze als Auswahlliste, oft verwendete stehen oben",
+    "date":  "2026-11-09"
 }
