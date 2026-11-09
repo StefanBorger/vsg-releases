@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.0",
-    "zip":  "desktop/VsgDesktop-1.19.0.zip",
-    "notes":  "Benutzerverwaltung: Recht \u0027darf freigeben\u0027 für Benutzer, die keine Admins sind",
+    "version":  "1.20.0",
+    "zip":  "desktop/VsgDesktop-1.20.0.zip",
+    "notes":  "WBK-Fotos zeigen Vorder- oder Rückseite (App 2.22)",
     "date":  "2026-11-09"
 }

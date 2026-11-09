@@ -1,7 +1,7 @@
 {
-    "versionCode":  23,
-    "versionName":  "2.21",
-    "apk":  "app/Scheibenauswertung-2.21.apk",
-    "notes":  "Probe je Schütze und Schießen: wird eingetragen, aber nicht gewertet",
+    "versionCode":  24,
+    "versionName":  "2.22",
+    "apk":  "app/Scheibenauswertung-2.22.apk",
+    "notes":  "WBK-Foto zentral hochladen: Schütze wählen, Vorder- oder Rückseite",
     "date":  "2026-11-09"
 }
