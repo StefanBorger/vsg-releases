@@ -1,7 +1,7 @@
 {
-    "versionCode":  27,
-    "versionName":  "2.25",
-    "apk":  "app/Scheibenauswertung-2.25.apk",
-    "notes":  "Schützennamen aus der Benutzerverwaltung",
+    "versionCode":  28,
+    "versionName":  "2.26",
+    "apk":  "app/Scheibenauswertung-2.26.apk",
+    "notes":  "Namensauswahl in eigenem Fenster mit Suche – Tastatur verdeckt die Liste nicht mehr",
     "date":  "2026-11-09"
 }
