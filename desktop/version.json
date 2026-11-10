@@ -1,6 +1,6 @@
 {
-    "version":  "1.37.0",
-    "zip":  "desktop/VsgDesktop-1.37.0.zip",
-    "notes":  "Rechte fuer die Tablet-App-Rolle vsg-user werden bei jeder Anmeldung mit vsg-admin vergeben.",
+    "version":  "1.38.0",
+    "zip":  "desktop/VsgDesktop-1.38.0.zip",
+    "notes":  "Datei - Einstellungen zeigt Datenbank-Zugang und Programm-Einstellungen; aendern nur vsg-admin und Benutzer mit dem neuen Recht Einstellungen aendern.",
     "date":  "2026-11-10"
 }
