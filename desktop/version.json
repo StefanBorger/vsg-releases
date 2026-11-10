@@ -1,6 +1,6 @@
 {
-    "version":  "1.40.0",
-    "zip":  "desktop/VsgDesktop-1.40.0.zip",
-    "notes":  "Doppelte Scheiben werden regelmaessig geprueft, Hinweis in der Statusleiste.",
-    "date":  "2026-11-10"
+    "version":  "1.41.0",
+    "zip":  "desktop/VsgDesktop-1.41.0.zip",
+    "notes":  "Auswertung: Scheibennummer bei jedem Schuetzen.",
+    "date":  "2026-11-11"
 }
