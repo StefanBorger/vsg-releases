@@ -1,6 +1,6 @@
 {
-    "version":  "1.28.0",
-    "zip":  "desktop/VsgDesktop-1.28.0.zip",
-    "notes":  "Neuer Reiter Schießbuch: alle Scheiben eines Schützen mit Datum, Disziplin, Kaliber, Waffe, Ergebnis und Freigabe; Filter, Schießtage der letzten 12 Monate, Export als CSV und PDF. Admins wählen den Schützen, alle anderen sehen ihr eigenes.",
+    "version":  "1.29.0",
+    "zip":  "desktop/VsgDesktop-1.29.0.zip",
+    "notes":  "Neuer Reiter Standorte (Admins): Runden auf der Karte, Verein zuordnen, automatische Zuordnung im Umkreis von 300 m; Bearbeiten - Vereine; Verein in Auswertung und Schiessbuch",
     "date":  "2026-11-10"
 }

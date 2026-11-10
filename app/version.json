@@ -1,7 +1,7 @@
 {
-    "versionCode":  32,
-    "versionName":  "2.30",
-    "apk":  "app/Scheibenauswertung-2.30.apk",
-    "notes":  "Eingaben der neuen Runde werden sofort gesichert und nach Neustart wiederhergestellt",
-    "date":  "2026-11-09"
+    "versionCode":  33,
+    "versionName":  "2.31",
+    "apk":  "app/Scheibenauswertung-2.31.apk",
+    "notes":  "Standort je Runde: beim Runde starten wird einmal der Standort gespeichert (abschaltbar in den Einstellungen); Verein wird automatisch erkannt, wenn der Stand schon einem Verein zugeordnet ist",
+    "date":  "2026-11-10"
 }
