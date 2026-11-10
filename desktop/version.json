@@ -1,6 +1,6 @@
 {
-    "version":  "1.34.0",
-    "zip":  "desktop/VsgDesktop-1.34.0.zip",
-    "notes":  "Auswertung: Angaben zur Runde oben neben der Rundenliste, unten mehr Platz fuer Scheibe und Schuesse.",
+    "version":  "1.35.0",
+    "zip":  "desktop/VsgDesktop-1.35.0.zip",
+    "notes":  "Standorte: Rechtsklick in Karte oder Liste kopiert die GPS-Daten in die Zwischenablage.",
     "date":  "2026-11-10"
 }
