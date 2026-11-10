@@ -1,6 +1,6 @@
 {
-    "version":  "1.33.3",
-    "zip":  "desktop/VsgDesktop-1.33.3.zip",
-    "notes":  "Schiessbuch: neue Spalte Ort zeigt, ob der GPS-Standort der Runde einem eingetragenen Verein zugeordnet ist.",
+    "version":  "1.33.4",
+    "zip":  "desktop/VsgDesktop-1.33.4.zip",
+    "notes":  "Schiessbuch: Spalte Unterschrift vor dem Status.",
     "date":  "2026-11-10"
 }
