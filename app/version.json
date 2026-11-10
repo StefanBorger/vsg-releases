@@ -1,7 +1,7 @@
 {
-    "versionCode":  39,
-    "versionName":  "2.37",
-    "apk":  "app/Scheibenauswertung-2.37.apk",
-    "notes":  "Doppelpruefung vor dem Hochladen nur innerhalb der Runde (schnell).",
+    "versionCode":  40,
+    "versionName":  "2.38",
+    "apk":  "app/Scheibenauswertung-2.38.apk",
+    "notes":  "Ergebnisse ausgebaut; Unterschrift nur fuer Benutzer ohne hinterlegte Unterschrift (auch vsg-admin).",
     "date":  "2026-11-10"
 }
