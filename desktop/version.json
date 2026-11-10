@@ -1,6 +1,6 @@
 {
-    "version":  "1.39.0",
-    "zip":  "desktop/VsgDesktop-1.39.0.zip",
-    "notes":  "Protokoll unter Hilfe: Verbindungen und Datenbankfehler mit vollstaendiger Meldung, Alles kopieren.",
+    "version":  "1.40.0",
+    "zip":  "desktop/VsgDesktop-1.40.0.zip",
+    "notes":  "Doppelte Scheiben werden regelmaessig geprueft, Hinweis in der Statusleiste.",
     "date":  "2026-11-10"
 }
