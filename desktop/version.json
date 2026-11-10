@@ -1,6 +1,6 @@
 {
-    "version":  "1.31.0",
-    "zip":  "desktop/VsgDesktop-1.31.0.zip",
-    "notes":  "Schiessbuch zeigt die Unterschrift, mit der die Freigabe bestaetigt wurde (Spalte Unterschrift, auch im PDF; CSV Spalte Unterschrieben)",
+    "version":  "1.32.0",
+    "zip":  "desktop/VsgDesktop-1.32.0.zip",
+    "notes":  "Doppelte Scheiben suchen und markieren (Bearbeiten, nur Admins): gleiche Papierscheibe zweimal fotografiert oder hochgeladen; die neuere wird als doppelt markiert, nichts geloescht.",
     "date":  "2026-11-10"
 }
