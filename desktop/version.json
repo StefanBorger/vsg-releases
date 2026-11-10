@@ -1,6 +1,6 @@
 {
-    "version":  "1.41.0",
-    "zip":  "desktop/VsgDesktop-1.41.0.zip",
-    "notes":  "Auswertung: Scheibennummer bei jedem Schuetzen.",
+    "version":  "1.42.0",
+    "zip":  "desktop/VsgDesktop-1.42.0.zip",
+    "notes":  "Aenderungsverlauf: mehrere Eintraege markieren und auf einmal loeschen (vsg-admin).",
     "date":  "2026-11-11"
 }
