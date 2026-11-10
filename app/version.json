@@ -1,7 +1,7 @@
 {
-    "versionCode":  35,
-    "versionName":  "2.33",
-    "apk":  "app/Scheibenauswertung-2.33.apk",
-    "notes":  "Scheibenerkennung der Kamera erst nach Runde starten.",
+    "versionCode":  36,
+    "versionName":  "2.34",
+    "apk":  "app/Scheibenauswertung-2.34.apk",
+    "notes":  "Anmeldung mit vsg-user statt vsg-admin (darf nichts loeschen oder aendern).",
     "date":  "2026-11-10"
 }
