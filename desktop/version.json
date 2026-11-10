@@ -1,6 +1,6 @@
 {
-    "version":  "1.30.0",
-    "zip":  "desktop/VsgDesktop-1.30.0.zip",
-    "notes":  "Orte auf der Karte suchen und speichern (auch Rechtsklick), gespeicherte Orte mit Verein zaehlen fuer die automatische Zuordnung; Benutzer - Unterschriften (Admin gibt frei); Freigabe mit Unterschrift bestaetigen",
+    "version":  "1.31.0",
+    "zip":  "desktop/VsgDesktop-1.31.0.zip",
+    "notes":  "Schiessbuch zeigt die Unterschrift, mit der die Freigabe bestaetigt wurde (Spalte Unterschrift, auch im PDF; CSV Spalte Unterschrieben)",
     "date":  "2026-11-10"
 }
