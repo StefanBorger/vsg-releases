@@ -1,6 +1,6 @@
 {
-    "version":  "1.35.0",
-    "zip":  "desktop/VsgDesktop-1.35.0.zip",
-    "notes":  "Standorte: Rechtsklick in Karte oder Liste kopiert die GPS-Daten in die Zwischenablage.",
+    "version":  "1.36.0",
+    "zip":  "desktop/VsgDesktop-1.36.0.zip",
+    "notes":  "Meine Einstellungen: Waffen in der Tablet-App anbieten als Haken direkt im Menue, ohne Fenster.",
     "date":  "2026-11-10"
 }
