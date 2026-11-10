@@ -1,6 +1,6 @@
 {
-    "version":  "1.33.2",
-    "zip":  "desktop/VsgDesktop-1.33.2.zip",
-    "notes":  "Schiessbuch: neue Spalte Scheibe mit der Scheibennummer (auch CSV und PDF).",
+    "version":  "1.33.3",
+    "zip":  "desktop/VsgDesktop-1.33.3.zip",
+    "notes":  "Schiessbuch: neue Spalte Ort zeigt, ob der GPS-Standort der Runde einem eingetragenen Verein zugeordnet ist.",
     "date":  "2026-11-10"
 }
