@@ -1,6 +1,6 @@
 {
-    "version":  "1.33.4",
-    "zip":  "desktop/VsgDesktop-1.33.4.zip",
-    "notes":  "Schiessbuch: Spalte Unterschrift vor dem Status.",
+    "version":  "1.33.5",
+    "zip":  "desktop/VsgDesktop-1.33.5.zip",
+    "notes":  "Auswertung: Verein und Ort (GPS-Standort einem eingetragenen Verein zugeordnet?) bei jeder Runde, auch im CSV.",
     "date":  "2026-11-10"
 }
