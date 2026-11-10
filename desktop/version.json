@@ -1,6 +1,6 @@
 {
-    "version":  "1.33.0",
-    "zip":  "desktop/VsgDesktop-1.33.0.zip",
-    "notes":  "Neue Aufteilung der Auswertung: Runden oben ueber die ganze Breite, darunter Details und Foto; Fenster passt sich dem Monitor an.",
+    "version":  "1.33.1",
+    "zip":  "desktop/VsgDesktop-1.33.1.zip",
+    "notes":  "Doppelte Scheiben: Spalte Status ganz links.",
     "date":  "2026-11-10"
 }
