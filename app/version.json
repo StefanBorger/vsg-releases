@@ -1,7 +1,7 @@
 {
-    "versionCode":  37,
-    "versionName":  "2.35",
-    "apk":  "app/Scheibenauswertung-2.35.apk",
-    "notes":  "Protokoll unter Einstellungen: Fehler mit vollstaendiger Meldung ansehen und kopieren.",
+    "versionCode":  38,
+    "versionName":  "2.36",
+    "apk":  "app/Scheibenauswertung-2.36.apk",
+    "notes":  "Doppelte Scheiben vor dem Hochladen pruefen (in der Runde und mit den gespeicherten Scheiben).",
     "date":  "2026-11-10"
 }
