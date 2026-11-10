@@ -1,7 +1,7 @@
 {
-    "versionCode":  33,
-    "versionName":  "2.31",
-    "apk":  "app/Scheibenauswertung-2.31.apk",
-    "notes":  "Standort je Runde: beim Runde starten wird einmal der Standort gespeichert (abschaltbar in den Einstellungen); Verein wird automatisch erkannt, wenn der Stand schon einem Verein zugeordnet ist",
+    "versionCode":  34,
+    "versionName":  "2.32",
+    "apk":  "app/Scheibenauswertung-2.32.apk",
+    "notes":  "Standort jeder Runde ist jetzt Pflicht (nicht abschaltbar); neue Schaltflaeche Unterschrift: mit dem Stift unterschreiben, ein Admin gibt sie in VSG Desktop frei",
     "date":  "2026-11-10"
 }
