@@ -1,6 +1,6 @@
 {
-    "version":  "1.36.0",
-    "zip":  "desktop/VsgDesktop-1.36.0.zip",
-    "notes":  "Meine Einstellungen: Waffen in der Tablet-App anbieten als Haken direkt im Menue, ohne Fenster.",
+    "version":  "1.37.0",
+    "zip":  "desktop/VsgDesktop-1.37.0.zip",
+    "notes":  "Rechte fuer die Tablet-App-Rolle vsg-user werden bei jeder Anmeldung mit vsg-admin vergeben.",
     "date":  "2026-11-10"
 }
