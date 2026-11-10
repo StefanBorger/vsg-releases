@@ -1,7 +1,7 @@
 {
-    "versionCode":  36,
-    "versionName":  "2.34",
-    "apk":  "app/Scheibenauswertung-2.34.apk",
-    "notes":  "Anmeldung mit vsg-user statt vsg-admin (darf nichts loeschen oder aendern).",
+    "versionCode":  37,
+    "versionName":  "2.35",
+    "apk":  "app/Scheibenauswertung-2.35.apk",
+    "notes":  "Protokoll unter Einstellungen: Fehler mit vollstaendiger Meldung ansehen und kopieren.",
     "date":  "2026-11-10"
 }
