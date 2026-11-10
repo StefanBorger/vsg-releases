@@ -1,7 +1,7 @@
 {
-    "versionCode":  34,
-    "versionName":  "2.32",
-    "apk":  "app/Scheibenauswertung-2.32.apk",
-    "notes":  "Standort jeder Runde ist jetzt Pflicht (nicht abschaltbar); neue Schaltflaeche Unterschrift: mit dem Stift unterschreiben, ein Admin gibt sie in VSG Desktop frei",
+    "versionCode":  35,
+    "versionName":  "2.33",
+    "apk":  "app/Scheibenauswertung-2.33.apk",
+    "notes":  "Scheibenerkennung der Kamera erst nach Runde starten.",
     "date":  "2026-11-10"
 }
