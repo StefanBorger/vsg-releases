@@ -1,6 +1,6 @@
 {
-    "version":  "1.33.1",
-    "zip":  "desktop/VsgDesktop-1.33.1.zip",
-    "notes":  "Doppelte Scheiben: Spalte Status ganz links.",
+    "version":  "1.33.2",
+    "zip":  "desktop/VsgDesktop-1.33.2.zip",
+    "notes":  "Schiessbuch: neue Spalte Scheibe mit der Scheibennummer (auch CSV und PDF).",
     "date":  "2026-11-10"
 }
