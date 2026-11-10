@@ -1,7 +1,7 @@
 {
-    "versionCode":  38,
-    "versionName":  "2.36",
-    "apk":  "app/Scheibenauswertung-2.36.apk",
-    "notes":  "Doppelte Scheiben vor dem Hochladen pruefen (in der Runde und mit den gespeicherten Scheiben).",
+    "versionCode":  39,
+    "versionName":  "2.37",
+    "apk":  "app/Scheibenauswertung-2.37.apk",
+    "notes":  "Doppelpruefung vor dem Hochladen nur innerhalb der Runde (schnell).",
     "date":  "2026-11-10"
 }
