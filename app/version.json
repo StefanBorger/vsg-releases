@@ -1,7 +1,7 @@
 {
-    "versionCode":  42,
-    "versionName":  "2.40",
-    "apk":  "app/Scheibenauswertung-2.40.apk",
-    "notes":  "Bild laden ausgebaut: Scheiben werden nur noch mit der Kamera erfasst. WBK-Fotos lassen sich weiterhin aufnehmen oder aus der Galerie waehlen.",
-    "date":  "2026-11-11"
+    "versionCode":  43,
+    "versionName":  "2.41",
+    "apk":  "app/Scheibenauswertung-2.41.apk",
+    "notes":  "Ringe werden nach der Erkennung an den gedruckten Ringlinien ausgerichtet: kleine Scheibe mit Perspektive (schraege Fotos), grosse Scheibe Ring fuer Ring (gewellte grosse Scheiben werden jetzt erkannt). Lochsuche unveraendert. Speichert die Ausrichtung (ab VSG Desktop 1.45).",
+    "date":  "2026-11-12"
 }

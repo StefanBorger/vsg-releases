@@ -1,6 +1,6 @@
 {
-    "version":  "1.44.0",
-    "zip":  "desktop/VsgDesktop-1.44.0.zip",
-    "notes":  "Standorte: Rechtsklick in die Karte -\u003e gespeicherten Ort einem neuen Verein zuordnen, bzw. an einer Runde oder freien Stelle einen Ort mit neuem Verein speichern. Danach werden die Runden automatisch neu zugeordnet; Eintrag im Aenderungsverlauf.",
-    "date":  "2026-11-11"
+    "version":  "1.45.0",
+    "zip":  "desktop/VsgDesktop-1.45.0.zip",
+    "notes":  "Ringe an den gedruckten Ringlinien ausrichten: kleine Scheibe mit Perspektive (schraege Fotos), grosse Scheibe Ring fuer Ring (gewellte grosse Scheiben werden jetzt erkannt). Bei Neu erkennen automatisch, neuer Knopf An Ringlinien ausrichten. Lochsuche unveraendert. Legt die Spalte fuer die Ausrichtung an und ergaenzt alle Erkennungsprofile um align=1 (Sicherung in parameter_alt) - bitte einmal als vsg-admin anmelden.",
+    "date":  "2026-11-12"
 }
