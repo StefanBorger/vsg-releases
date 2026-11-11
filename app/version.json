@@ -1,7 +1,7 @@
 {
-    "versionCode":  41,
-    "versionName":  "2.39",
-    "apk":  "app/Scheibenauswertung-2.39.apk",
-    "notes":  "Schnellere Erkennung bei gleichem Ergebnis: gelernte Profile werden gleichzeitig gerechnet, Foto wird nebenbei gesichert, Live-Erkennung pausiert waehrend der Aufnahme. Zeitprotokoll je Erkennung. Neu: Einstellungen -\u003e Erkennungsprofile (Lern-Guete, Ein/Aus je Tablet, Statistik). Speichert je Scheibe Profil und Erkennungszeit (ab VSG Desktop 1.43).",
+    "versionCode":  42,
+    "versionName":  "2.40",
+    "apk":  "app/Scheibenauswertung-2.40.apk",
+    "notes":  "Bild laden ausgebaut: Scheiben werden nur noch mit der Kamera erfasst. WBK-Fotos lassen sich weiterhin aufnehmen oder aus der Galerie waehlen.",
     "date":  "2026-11-11"
 }
