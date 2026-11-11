@@ -1,6 +1,6 @@
 {
-    "version":  "1.42.0",
-    "zip":  "desktop/VsgDesktop-1.42.0.zip",
-    "notes":  "Aenderungsverlauf: mehrere Eintraege markieren und auf einmal loeschen (vsg-admin).",
+    "version":  "1.43.0",
+    "zip":  "desktop/VsgDesktop-1.43.0.zip",
+    "notes":  "Neu: Bearbeiten -\u003e Erkennungsprofile. Alle Profile mit Lern-Guete, Einsaetzen in der App und mittlerer Erkennungszeit; Profile pruefen vergleicht jedes Profil auf den korrigierten Scheiben mit dem Standard (schlechtere rot); Aktivieren/Deaktivieren (Admins), Loeschen (vsg-admin), alles im Aenderungsverlauf. Legt die neuen Spalten fuer App 2.39 an - bitte einmal als vsg-admin anmelden.",
     "date":  "2026-11-11"
 }
