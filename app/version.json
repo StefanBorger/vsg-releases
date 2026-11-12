@@ -1,7 +1,7 @@
 {
-    "versionCode":  47,
-    "versionName":  "2.45",
-    "apk":  "app/Scheibenauswertung-2.45.apk",
-    "notes":  "Datenbank-Anzeige (gruen/rot), ohne erreichbare Datenbank wird sofort auf dem Tablet gespeichert und spaeter uebertragen",
+    "versionCode":  48,
+    "versionName":  "2.46",
+    "apk":  "app/Scheibenauswertung-2.46.apk",
+    "notes":  "Vorher-Foto: Knopf vorher am Kamerarand, die Erkennung vergleicht mit der frischen Scheibe",
     "date":  "2026-11-12"
 }

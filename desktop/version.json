@@ -1,6 +1,6 @@
 {
-    "version":  "1.48.0",
-    "zip":  "desktop/VsgDesktop-1.48.0.zip",
-    "notes":  "Nur noch die Lochsuche am Stand (Version 2): Umgebungspruefung gegen Schattenkanten und Ziffern, Lochgruppen werden aufgeteilt; an den 7 korrigierten Scheiben im Mittel 16 statt 14 von 20 richtig, App und Desktop identisch. Entfallen: Suche fuer Fotos vor Holz/Pappe, Erkennung lernen, Erkennungsprofile, Empfindlichkeit.",
+    "version":  "1.49.0",
+    "zip":  "desktop/VsgDesktop-1.49.0.zip",
+    "notes":  "Vorher-Foto anzeigen; Neu erkennen vergleicht mit dem Vorher-Foto wie App 2.46",
     "date":  "2026-11-12"
 }
