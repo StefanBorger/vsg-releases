@@ -1,7 +1,7 @@
 {
-    "versionCode":  46,
-    "versionName":  "2.44",
-    "apk":  "app/Scheibenauswertung-2.44.apk",
-    "notes":  "Nur noch die Lochsuche am Stand (Version 2): Umgebungspruefung gegen Schattenkanten und Ziffern, Lochgruppen werden aufgeteilt; an den 7 korrigierten Scheiben im Mittel 16 statt 14 von 20 richtig. Entfallen: Suche fuer Fotos vor Holz/Pappe, Erkennungsprofile, Empfindlichkeit. Scheibe am Stand heisst jetzt Nur antippen.",
+    "versionCode":  47,
+    "versionName":  "2.45",
+    "apk":  "app/Scheibenauswertung-2.45.apk",
+    "notes":  "Datenbank-Anzeige (gruen/rot), ohne erreichbare Datenbank wird sofort auf dem Tablet gespeichert und spaeter uebertragen",
     "date":  "2026-11-12"
 }
