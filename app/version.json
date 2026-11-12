@@ -1,7 +1,7 @@
 {
-    "versionCode":  45,
-    "versionName":  "2.43",
-    "apk":  "app/Scheibenauswertung-2.43.apk",
-    "notes":  "Ausrichtung der Ringe robuster: auch bei stark schraeg aufgenommenen Fotos und wenn die Lage von Hand nur an X und 10 aufgelegt ist; Ringe der grossen Scheibe auch im Schatten und bei nur teilweise sichtbaren Ringen.",
+    "versionCode":  46,
+    "versionName":  "2.44",
+    "apk":  "app/Scheibenauswertung-2.44.apk",
+    "notes":  "Nur noch die Lochsuche am Stand (Version 2): Umgebungspruefung gegen Schattenkanten und Ziffern, Lochgruppen werden aufgeteilt; an den 7 korrigierten Scheiben im Mittel 16 statt 14 von 20 richtig. Entfallen: Suche fuer Fotos vor Holz/Pappe, Erkennungsprofile, Empfindlichkeit. Scheibe am Stand heisst jetzt Nur antippen.",
     "date":  "2026-11-12"
 }
