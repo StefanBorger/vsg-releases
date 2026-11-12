@@ -1,7 +1,7 @@
 {
-    "versionCode":  48,
-    "versionName":  "2.46",
-    "apk":  "app/Scheibenauswertung-2.46.apk",
-    "notes":  "Vorher-Foto: Knopf vorher am Kamerarand, die Erkennung vergleicht mit der frischen Scheibe",
+    "versionCode":  49,
+    "versionName":  "2.47",
+    "apk":  "app/Scheibenauswertung-2.47.apk",
+    "notes":  "Kamera erst mit Runde starten; Vorher-Foto schon in der Einrichtung je Schuetze",
     "date":  "2026-11-12"
 }
