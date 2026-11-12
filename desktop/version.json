@@ -1,6 +1,6 @@
 {
-    "version":  "1.45.0",
-    "zip":  "desktop/VsgDesktop-1.45.0.zip",
-    "notes":  "Ringe an den gedruckten Ringlinien ausrichten: kleine Scheibe mit Perspektive (schraege Fotos), grosse Scheibe Ring fuer Ring (gewellte grosse Scheiben werden jetzt erkannt). Bei Neu erkennen automatisch, neuer Knopf An Ringlinien ausrichten. Lochsuche unveraendert. Legt die Spalte fuer die Ausrichtung an und ergaenzt alle Erkennungsprofile um align=1 (Sicherung in parameter_alt) - bitte einmal als vsg-admin anmelden.",
+    "version":  "1.46.0",
+    "zip":  "desktop/VsgDesktop-1.46.0.zip",
+    "notes":  "Neue Lochsuche fuer Fotos am Stand (kleine auf grosser Papierscheibe) bei Neu erkennen: an den 7 korrigierten Scheiben der Datenbank im Mittel 15 statt 0-3 von 20 Loechern richtig, keine schlechter; Fotos vor Holz/Pappe unveraendert.",
     "date":  "2026-11-12"
 }

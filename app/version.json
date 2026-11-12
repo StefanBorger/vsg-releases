@@ -1,7 +1,7 @@
 {
-    "versionCode":  43,
-    "versionName":  "2.41",
-    "apk":  "app/Scheibenauswertung-2.41.apk",
-    "notes":  "Ringe werden nach der Erkennung an den gedruckten Ringlinien ausgerichtet: kleine Scheibe mit Perspektive (schraege Fotos), grosse Scheibe Ring fuer Ring (gewellte grosse Scheiben werden jetzt erkannt). Lochsuche unveraendert. Speichert die Ausrichtung (ab VSG Desktop 1.45).",
+    "versionCode":  44,
+    "versionName":  "2.42",
+    "apk":  "app/Scheibenauswertung-2.42.apk",
+    "notes":  "Neue Lochsuche fuer Fotos am Stand (kleine auf grosser Papierscheibe): an den 7 korrigierten Scheiben der Datenbank im Mittel 15 statt 0-3 von 20 Loechern richtig, keine schlechter; Fotos vor Holz/Pappe unveraendert. Scheibe am Stand (Antippen) bleibt wie bisher.",
     "date":  "2026-11-12"
 }
