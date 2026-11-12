@@ -1,6 +1,6 @@
 {
-    "version":  "1.46.0",
-    "zip":  "desktop/VsgDesktop-1.46.0.zip",
-    "notes":  "Neue Lochsuche fuer Fotos am Stand (kleine auf grosser Papierscheibe) bei Neu erkennen: an den 7 korrigierten Scheiben der Datenbank im Mittel 15 statt 0-3 von 20 Loechern richtig, keine schlechter; Fotos vor Holz/Pappe unveraendert.",
+    "version":  "1.47.0",
+    "zip":  "desktop/VsgDesktop-1.47.0.zip",
+    "notes":  "Kalibrieren von Hand: es genuegt, X und 10 genau aufzulegen - beim Beenden von Kalibrieren werden alle Ringe an den gedruckten Linien ausgerichtet. Ausrichtung robuster bei stark schraegen Fotos, im Schatten und bei nur teilweise sichtbaren Ringen der grossen Scheibe. WICHTIG: einmal als vsg-admin anmelden (legt die Spalten fuer die Ausrichtung an).",
     "date":  "2026-11-12"
 }
