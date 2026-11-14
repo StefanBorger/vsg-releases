@@ -1,6 +1,6 @@
 {
-    "version":  "1.49.0",
-    "zip":  "desktop/VsgDesktop-1.49.0.zip",
-    "notes":  "Vorher-Foto anzeigen; Neu erkennen vergleicht mit dem Vorher-Foto wie App 2.46",
-    "date":  "2026-11-12"
+    "version":  "1.50.0",
+    "zip":  "desktop/VsgDesktop-1.50.0.zip",
+    "notes":  "Plausibilitaetspruefung der Ringmaske wie App 2.48: Scheibensuche prueft die Ringlinien, zu ovale Maske wird als Kreis neu ausgerichtet, Hinweis und Rueckfrage beim Speichern",
+    "date":  "2026-11-14"
 }

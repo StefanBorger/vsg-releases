@@ -1,7 +1,7 @@
 {
-    "versionCode":  49,
-    "versionName":  "2.47",
-    "apk":  "app/Scheibenauswertung-2.47.apk",
-    "notes":  "Kamera erst mit Runde starten; Vorher-Foto schon in der Einrichtung je Schuetze",
-    "date":  "2026-11-12"
+    "versionCode":  50,
+    "versionName":  "2.48",
+    "apk":  "app/Scheibenauswertung-2.48.apk",
+    "notes":  "Plausibilitaetspruefung der Ringmaske: am Stand wird nicht mehr der schwarze Hintergrund um die Tafel als Scheibe gefunden; zu ovale Ringmaske wird beim Ausrichten als Kreis neu angesetzt",
+    "date":  "2026-11-14"
 }
